@@ -1,0 +1,21 @@
+{
+  "name": "iLoyola",
+  "description": "iLoyola Interactive Portfolio",
+  "main": "",
+  "authors": [
+    "iLoyola <ivan@iloyola.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/iLoyola/iloyola",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.4"
+  }
+}

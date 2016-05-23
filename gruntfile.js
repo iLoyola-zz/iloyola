@@ -54,6 +54,8 @@ module.exports = function (grunt) {
 
     });
 
+    grunt.loadNpmTasks('grunt-postcss');
+
     // Register the grunt serve task
     grunt.registerTask('serve', [
         'shell:jekyllServe'
