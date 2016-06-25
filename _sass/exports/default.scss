@@ -1,13 +1,13 @@
 // 1. <-configs->
-@import "../configs//index";
+@import "../configs/index";
 // 2. <-functions->
-@import "../helpers/functions/";
+@import "../helpers/functions/index";
 // 3. <-mixins->
-@import "../helpers/mixins/";
+@import "../helpers/mixins/index";
 // 4. <-core->
-@import "../core/";
+@import "../core/index";
 // 5. <-vendors->
-@import "../vendors/";
+@import "../vendors/index";
 // 6. <-layouts->
 // 7. <-modules->
 // 8. <-units->
