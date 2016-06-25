@@ -1,0 +1,21 @@
+// Config::Typography
+// This file contains the configuration variables for all typography
+
+// Font-face imports
+// @import custom fonts here
+
+// Typography Scale
+$base-font-size: 16px;
+$base-line-height: 1.5;
+
+$font-size-small: 0.75rem;
+$font-size-medium: 1rem;
+$font-size-large: 1.375rem;
+$font-size-xlarge: 2rem;
+
+// Font Stack
+$base-font-family: 'Roboto Condensed', Helvetica, Arial, sans-serif;
+$header-font-family: Helvetica, Arial, sans-serif;
+$heading-font-family: Helvetica, Arial, sans-serif;
+$button-font-family: Helvetica, Arial, sans-serif;
+$footer-font-family: Helvetica, Arial, sans-serif;
